@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AlgoCastsCs.completedExcersices.reverseString;
 
 namespace AlgoCastsCs
 {
@@ -10,6 +12,8 @@ namespace AlgoCastsCs
     {
         static void Main(string[] args)
         {
+            ReverseString.ReverseStringProblem("abcd");
+            ReverseString.Test();
         }
     }
 }
