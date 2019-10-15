@@ -23,7 +23,17 @@ namespace AlgoCastsCs.completedExcersices.reverseString
             for (int i = str.Length - 1; i > -1; i--)
             {
                 result += str[i];
-            }           
+            }
+            return result;
+        }
+        public static string ReverseStringProblem2(string str)
+        {
+            if (string.IsNullOrEmpty(str)) return null;
+            string result = "";
+            foreach (var character in str)
+            {
+                result = character + result;
+            }
             return result;
         }
         public static void Test()
