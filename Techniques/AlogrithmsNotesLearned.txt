@@ -1,0 +1,2 @@
+Reversed for loop ex: for(int i=str.Length; i>-1; i++)
+add character to string from the beginning ex: string reversal
