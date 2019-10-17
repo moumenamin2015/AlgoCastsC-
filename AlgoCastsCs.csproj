@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="completedExcersices\Maxchar\MaxChar.cs" />
     <Compile Include="completedExcersices\Palindromes\Palindrome.cs" />
     <Compile Include="completedExcersices\ReverseString\ReverseString.cs" />
     <Compile Include="Program.cs" />
