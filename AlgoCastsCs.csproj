@@ -46,6 +46,7 @@
     <Compile Include="completedExcersices\Maxchar\MaxChar.cs" />
     <Compile Include="completedExcersices\Palindromes\Palindrome.cs" />
     <Compile Include="completedExcersices\ReverseString\ReverseString.cs" />
+    <Compile Include="completedExcersices\ReversingInt\ReverseInt.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
