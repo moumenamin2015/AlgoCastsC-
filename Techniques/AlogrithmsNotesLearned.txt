@@ -1,2 +1,4 @@
 Reversed for loop ex: for(int i=str.Length; i>-1; i++)
 add character to string from the beginning ex: string reversal
+use Math.Sign return 1 or -1 (negative number)
+when converting number to int then reversed the negative sign will be reversed as well
