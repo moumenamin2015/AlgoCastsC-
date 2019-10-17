@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="completedExcersices\FizzBuzz\FizzBuzz.cs" />
     <Compile Include="completedExcersices\Maxchar\MaxChar.cs" />
     <Compile Include="completedExcersices\Palindromes\Palindrome.cs" />
     <Compile Include="completedExcersices\ReverseString\ReverseString.cs" />
@@ -53,5 +54,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

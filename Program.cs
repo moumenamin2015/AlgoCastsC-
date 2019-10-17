@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AlgoCastsCs.completedExcersices.FizzBuzz;
 using AlgoCastsCs.completedExcersices.Maxchar;
 using AlgoCastsCs.completedExcersices.Palindromes;
 using AlgoCastsCs.completedExcersices.reverseString;
@@ -22,6 +23,8 @@ namespace AlgoCastsCs
             Palindrome.Test();
             ///////////////////////////////////////            
             ReverseInt.Test();
+            ///////////////////////////////////////            
+            FizzBuzz.Test();
         }
 
     }
