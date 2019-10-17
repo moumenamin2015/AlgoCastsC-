@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="completedExcersices\ArrayChunk\ArrayChunk.cs" />
     <Compile Include="completedExcersices\FizzBuzz\FizzBuzz.cs" />
     <Compile Include="completedExcersices\Maxchar\MaxChar.cs" />
     <Compile Include="completedExcersices\Palindromes\Palindrome.cs" />
